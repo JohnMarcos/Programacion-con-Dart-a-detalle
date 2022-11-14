@@ -6,7 +6,7 @@ Te presentamos el repositorio del curso, aquí encontraras el temario, las intro
 Todas las herramientas que utilizaras **SON GRATUITAS** y **OPCIONALES**.
 Para recordar este repositorio, puedes destacarlo (con la '**ESTRELLA**' arriba a la derecha) o simplemente marcando la página en su navegador cómo favorito.
 
-## Temario 📙
+## Temario 📙   
 
 A continuación el temario del curso con sus link de los videos y paginas de referencia.
 
@@ -25,7 +25,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 1.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 2. Capítulo 2 - Setup básico 
     - 2.1.- Dart Pad - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visita la herramienta: [`Dart Pad - Click aquí ir a la herramienta`](https://dartpad.dev/)
@@ -42,7 +42,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 2.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 3. Capítulo 3 - Setup Avanzado
     - 3.1.- Visual Studio Code - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página oficial: [`Visual Studio Code - Click aquí para visitar la página`](https://code.visualstudio.com/)
@@ -60,7 +60,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 3.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 4. Capítulo 4 - Git & GitHub básico
     - 4.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -78,7 +78,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 4.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-  
+  ---
 5. Capítulo 4 - Git & GitHub básico
     - 5.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -114,7 +114,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 6.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 7. Capítulo 4 - Git & GitHub básico
     - 7.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -132,7 +132,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 7.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 8. Capítulo 4 - Git & GitHub básico
     - 8.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -150,7 +150,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 8.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 9. Capítulo 4 - Git & GitHub básico
     - 9.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -168,7 +168,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 9.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 10. Capítulo 4 - Git & GitHub básico
     - 10.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -186,7 +186,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 10.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 11. Capítulo 4 - Git & GitHub básico
     - 11.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -204,7 +204,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 11.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 12. Capítulo 4 - Git & GitHub básico
     - 12.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -222,7 +222,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 12.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 13. Capítulo 4 - Git & GitHub básico
     - 13.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -240,7 +240,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 13.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 14. Capítulo 4 - Git & GitHub básico
     - 14.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -258,7 +258,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 14.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-
+---
 15. Capítulo 4 - Git & GitHub básico
     - 15.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -276,6 +276,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 15.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+
 
 
 Nuestros mejores deseos en su vieje, iniciarte en el 🌎 de la programación! 🎉

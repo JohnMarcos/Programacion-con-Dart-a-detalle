@@ -1,5 +1,5 @@
+import '../Sección 6.02 - Tipo String/03_retos_string.dart';
 import 'package:test/test.dart';
-import '03_retos_string.dart';
 
 void main() {
   test_1;
@@ -35,9 +35,12 @@ verificador_2() {
   if (dimeUnNumeroEntero() == null) {
     mensaje =
         "Tal vez no esta usando return o ningún argumento después de return";
-  } else if (dimeUnNumeroEntero().runtimeType != int) {
+  } else if (dimeUnNumeroEntero().runtimeType == String) {
     mensaje =
-        'Tal vez no estas ingresan un número entero como el 10 por ejemplo';
+        'Estas usando una String, ingresa un número entero como el 10 por ejemplo';
+  } else if (dimeUnNumeroEntero().runtimeType == double) {
+    mensaje =
+        'Esta usando un double, intenta con un número entero como el 5 por ejemplo';
   }
   return mensaje;
 }
