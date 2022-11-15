@@ -261,21 +261,21 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///Users/johnvidela/.pub-cache/hosted/pub.dartlang.org/test-1.20.2",
+      "rootUri": "file:///Users/johnvidela/.pub-cache/hosted/pub.dartlang.org/test-1.22.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/johnvidela/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.9",
+      "rootUri": "file:///Users/johnvidela/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.16",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///Users/johnvidela/.pub-cache/hosted/pub.dartlang.org/test_core-0.4.11",
+      "rootUri": "file:///Users/johnvidela/.pub-cache/hosted/pub.dartlang.org/test_core-0.4.20",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "typed_data",
@@ -326,7 +326,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-07-06T04:03:00.538656Z",
+  "generated": "2022-11-15T00:35:21.059397Z",
   "generator": "pub",
-  "generatorVersion": "2.17.1"
+  "generatorVersion": "2.18.2"
 }
