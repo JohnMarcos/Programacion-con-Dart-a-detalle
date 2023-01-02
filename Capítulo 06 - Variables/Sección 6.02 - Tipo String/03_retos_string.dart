@@ -5,7 +5,7 @@ void main() {
 
 comoTeLlamas() {
   // Retorna tu nombre -> nombre
-  return 'John Videla';
+  return 'John';
 }
 
 holaEnMayusculas() {
@@ -16,5 +16,5 @@ holaEnMayusculas() {
 dimeUnNumeroEntero() {
   // Retorna un número entero
 
-  return 1;
+  return 5;
 }

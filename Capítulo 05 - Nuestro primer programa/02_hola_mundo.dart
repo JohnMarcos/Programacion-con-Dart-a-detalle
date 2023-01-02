@@ -5,7 +5,7 @@
 // Aquí es donde la aplicación comienza a ejecutarse.
 void main() {
   String saludo = "¡Hola Mundo!"; // Declaración e inicialización de variable.
-  print(saludo); // Llamada a una función
+  print(saludo); // Llamada de una función
 }
 // Aquí es donde la aplicación termina.
 
